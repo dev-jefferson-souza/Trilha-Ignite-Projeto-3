@@ -47,6 +47,70 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Memória RAM",
+      "price": 120,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2023-02-10T16:35:32.292Z",
+      "id": 7
+    },
+    {
+      "description": "Salário",
+      "price": 400,
+      "category": "Renda",
+      "type": "income",
+      "createdAt": "2023-02-10T16:42:01.704Z",
+      "id": 8
+    },
+    {
+      "description": "Água",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-10T17:23:24.023Z",
+      "id": 9
+    },
+    {
+      "description": "Frango",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-10T17:24:28.140Z",
+      "id": 10
+    },
+    {
+      "description": "Miojo",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-10T17:25:05.377Z",
+      "id": 11
+    },
+    {
+      "description": "Ração",
+      "price": 150,
+      "category": "Animais",
+      "type": "outcome",
+      "createdAt": "2023-02-10T17:26:00.074Z",
+      "id": 12
+    },
+    {
+      "description": "Mouse",
+      "price": 80,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2023-02-10T17:27:02.837Z",
+      "id": 13
+    },
+    {
+      "description": "Pastel de frango",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-10T17:27:55.001Z",
+      "id": 14
     }
   ]
 }
